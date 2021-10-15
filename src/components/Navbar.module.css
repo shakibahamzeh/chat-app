@@ -1,0 +1,21 @@
+.navbarContainer{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background:#d6dd88;
+height: 55px;
+padding:0 2rem;
+}
+.logo{
+  font-size: 18px;
+  font-weight: bold;
+  color: #2ca351;
+}
+.button{
+  color: #fff;
+  padding: 0.6rem 0.7rem;
+  background: #2ca351;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
